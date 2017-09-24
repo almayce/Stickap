@@ -1,0 +1,58 @@
+{
+  "project_info": {
+    "project_number": "292724848852",
+    "firebase_url": "https://fancysticker-ab336.firebaseio.com",
+    "project_id": "fancysticker-ab336",
+    "storage_bucket": "fancysticker-ab336.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:292724848852:android:d477ffcd1829524e",
+        "android_client_info": {
+          "package_name": "io.almayce.dev.fancysticker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "292724848852-de10g9tp7cuh6apqd6975nsp6pnape65.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.almayce.dev.fancysticker",
+            "certificate_hash": "f83b038d775b805beb619f278a86c1a24d04e84e"
+          }
+        },
+        {
+          "client_id": "292724848852-rbhfqppavm9iuva3b0qqkml8vjtg9a5j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLALBAN-LGL9TpEXJvJqTLl_WudX_gamE"
+        },
+        {
+          "current_key": "AIzaSyBov4nRNMNrFjdnY3sIRksg4qcbSweQVqQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "292724848852-rbhfqppavm9iuva3b0qqkml8vjtg9a5j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

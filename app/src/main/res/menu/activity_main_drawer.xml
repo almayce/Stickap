@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_smiles"
+            android:icon="@drawable/ic_mood_black_24dp"
+            android:title="Smiles" />
+        <item
+            android:id="@+id/nav_animal"
+            android:icon="@drawable/ic_pets_black_24dp"
+            android:title="Animal" />
+        <item
+            android:id="@+id/nav_cartoon"
+            android:icon="@drawable/ic_theaters_black_24dp"
+            android:title="Cartoon" />
+        <item
+            android:id="@+id/nav_comic"
+            android:icon="@drawable/ic_message_black_24dp"
+            android:title="Comic" />
+        <item
+            android:id="@+id/nav_funny"
+            android:icon="@drawable/ic_child_care_black_24dp"
+            android:title="Funny" />
+        <item
+            android:id="@+id/nav_romantic"
+            android:icon="@drawable/ic_favorite_black_24dp"
+            android:title="Romantic" />
+        <item
+            android:id="@+id/nav_skeleton"
+            android:icon="@drawable/ic_accessibility_black_24dp"
+            android:title="Skeleton" />
+        <item
+            android:id="@+id/nav_sun"
+            android:icon="@drawable/ic_wb_sunny_black_24dp"
+            android:title="Sun" />
+    </group>
+
+    <item android:title="Support">
+        <menu>
+            <item
+                android:id="@+id/nav_ads"
+                android:icon="@drawable/ic_add_shopping_cart_black_24dp"
+                android:title="Remove Ads" />
+        </menu>
+    </item>
+
+</menu>
